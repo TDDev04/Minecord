@@ -4,8 +4,8 @@ Basically, create a minecraft server through discord.
 
 __Purpose of the project:__
 - Create a minecraft server through discord. Yea, real fast. You want to stop it? No problem, you can do it really quick too :).
-- **Usage**: `rinit` to start a random server (Might take a while to load in the minecraft client to create a world).
-- **Usage**: `rstop` to basically, stop the server from running (this procedure is instant, since the tunnel just closes).
+- **Usage**: `rngrokinit` to start a random server (Might take a while to load in the minecraft client to create a world).
+- **Usage**: `rngrokquit` to basically, stop the server from running (this procedure is instant, since the tunnel just closes).
 
 _Pros/Cons:_
 - **Pro**: Its really fast if the server is stored locally or even a VPS.
